@@ -1,2 +1,3 @@
 # react-confirm
-react dialog
+
+It also can be used as dialog or alert.
